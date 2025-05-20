@@ -14,9 +14,9 @@
     
   ARTIFICIAL INTELLIGENCE-POWEREDAUTONOMOUS VEHICLES AND ROBOTICS
 
-                                             SUBMITTED BY,
-                              
-                                              1.P.DASPRAKASH
+        SUBMITTED BY,
+        
+	1.P.DASPRAKASH
 
 TEAM MEMBERS:
    2.M.ISHWARYA
@@ -24,6 +24,7 @@ TEAM MEMBERS:
    4.S.JAMES 
    5.S.JOTHIKA
 
+   
     Phase 5: Project Demonstration & Documentation
 Title: AI-Powered  Autonomous Vehicles And Robotics
 
